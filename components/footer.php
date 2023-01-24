@@ -5,7 +5,7 @@
       <div class="box">
          <img src="images/email-icon.png" alt="">
          <h3>our email</h3>
-         <a href="pranasri812@gmail.com">pranasri812@gmail.com</a>
+         <a href="abcd@gmail.com">abcd@gmail.com</a>
       </div>
 
       <div class="box">
@@ -23,7 +23,7 @@
       <div class="box">
          <img src="images/phone-icon.png" alt="">
          <h3>our number</h3>
-         <a href="tel:7799889888">7799889888</a>
+         <a href="tel:0123456789">0123456789</a>
       </div>
 
    </section>
